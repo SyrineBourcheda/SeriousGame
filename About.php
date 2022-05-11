@@ -23,11 +23,19 @@ if (isset($_SESSION['username'])) {
 	<title>About </title>
 </head>
 <body>
-<div class="container" style=" z-index: 1; width:900px ; height:600px">
-	
-			<p> groupe member /projet/ecole/profa/</p>
-          
-
+<div class="container" style=" z-index: 1; width:900px ; height:700px">
+	  <div class="about" >
+      <img src="wel.png" width="200px" style=" margin-left:300px; margin-top:50px; margin-bottom:50px" >
+			<p> This game is a part of the module project (Serious Game) , level II1 at ENSI ,</p>
+      <ul>  prepared by :
+          <li> Sirine Bourcheda </li>
+          <li> Ikbel Temtem </li>
+          <li> Aya Jouini </li>
+</ul>
+     <ul> prepared for :
+       <li> Yemna Sayeb </li>
+     </ul>              
+     </div>
 	</div>
 
 <!-- background animation -->

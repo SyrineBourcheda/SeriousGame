@@ -146,7 +146,7 @@ body {
     color: #FFF;
     cursor: pointer;
     transition: .3s;
-    
+    text-decoration: none;
   
     margin-left: 360px;
 }
@@ -154,9 +154,15 @@ body {
 .container .input-group .btn1:hover {
     transform: translateY(-5px);
     background: #ea9999;
+    text-decoration: none;
 }
-
-
+.container .about  {
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container .about li{
+    margin-left:120px;
+}
 .login-register-text {
     color: #111;
     font-weight: 600;

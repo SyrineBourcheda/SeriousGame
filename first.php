@@ -32,7 +32,7 @@ if (isset($_SESSION['username'])) {
 				<a href="index.php" name="submit" class="btn1">Login</a>
 			</div>
             <div class="input-group">
-				<a href="About.php" name="submit" style="margin-top:30px" class="btn1">Info</a>
+				<a href="About.php" name="submit" style="margin-top:30px; " class="btn1">Info</a>
 			</div>
 			<h4 class="login-register-text " style=" margin-left:300px; margin-top:10px ">Don't have an account? <a href="register.php" style="color:#adc46e;">Register Here</a>.</h4>
 		

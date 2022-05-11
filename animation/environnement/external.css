@@ -236,7 +236,7 @@ input[type=radio]:checked ~ .option {
     color: #000000;
     text-align: center;
     font-size:25px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family:'Andale Mono','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .grade-details{

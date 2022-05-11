@@ -79,9 +79,7 @@
                 <h1>Congratulations, Quiz Completed.</h1>
 
                 <div class="grade-details">
-                   <p>Attempts : 10</p>
-                    <p>Wrong Answers : <span id="wrong-answers"></span></p> 
-                    <p>Right Answers : <span id="right-answers"></span></p> 
+               <!-- <img src="../../cong.png" width="160px" > -->
                     <p>Grade : <span id="grade-percentage"></span>%</p>
                     <p ><span id="remarks"></span></p> 
                     <p>Move to the next level</p>
@@ -121,7 +119,7 @@
 
                     <div class="modal-content-container">
                          <h1>Please Pick An Option</h1>
-
+                         <img src="https://cdn-icons-png.flaticon.com/512/3997/3997910.png" width="250"> 
                          <div class="modal-button-container">
                             <button onclick="closeOptionModal()">Continue</button>
                         </div>
